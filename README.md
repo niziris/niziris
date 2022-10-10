@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @niziris also known Lidija V. Trandafilovic
+- 👋 Hi, I’m @niziris also known as Lidija V. Trandafilovic 
 - 👀 I’m interested in everything data related
-- 🌱 I’m currently working on Time Series Forcast 
+- 🌱 I’m currently working on Time Series Forcasting using LSTM 
 
 
 
